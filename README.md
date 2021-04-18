@@ -1,6 +1,8 @@
 # Ig News 📰
 ### `A paid service news app`
 
+###
+
 - [ ] Estrutura da aplicação ⚙️
 - [ ] Componentização 🧩
 - [ ] Consumindo API 🗣
